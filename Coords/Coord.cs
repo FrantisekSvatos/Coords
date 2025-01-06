@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Coords
 {
-    internal class Coord : IEquatable<Coord>
+    internal class Coord : IEquatable<Coord>, IComparable<Coord>
     {
         public Coord(int x, int y)
         {
