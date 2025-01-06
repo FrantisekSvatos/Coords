@@ -69,5 +69,21 @@ namespace Coords
         {
             return a.CompareTo(b) < 0;
         }
+
+        public static Coord operator +(Coord a, Coord b)
+        {
+            Coord coord = new Coord(0, 0);
+            coord.X = a.X + b.X;
+            coord.Y = a.Y + b.Y;
+            return coord;
+        }
+
+        public static Coord operator *(Coord a, int num)
+        {
+            Coord coord = new Coord (0, 0);
+            coord.X = a.X * num;
+            coord.Y = a.Y * num;
+            return coord;
+        }
     }
 }

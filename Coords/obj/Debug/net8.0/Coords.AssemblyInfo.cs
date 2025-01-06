@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e73189785dd4f94ba66ab9d9209282c2cf93bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44d71cae7e1f5cfac1d4836f536936e997f309f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
