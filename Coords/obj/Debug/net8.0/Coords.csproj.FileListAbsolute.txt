@@ -1,0 +1,15 @@
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.AssemblyInfoInputs.cache
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.AssemblyInfo.cs
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.csproj.CoreCompileInputs.cache
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.sourcelink.json
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\bin\Debug\net8.0\Coords.exe
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\bin\Debug\net8.0\Coords.deps.json
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\bin\Debug\net8.0\Coords.runtimeconfig.json
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\bin\Debug\net8.0\Coords.dll
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\bin\Debug\net8.0\Coords.pdb
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.dll
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\refint\Coords.dll
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.pdb
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\Coords.genruntimeconfig.cache
+C:\Users\frantisek.svatos.023\source\repos\Coords\Coords\obj\Debug\net8.0\ref\Coords.dll
